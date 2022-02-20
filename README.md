@@ -1,11 +1,11 @@
 # Machine-learning
-Linear Regression/机器学习案例分析/线性回归
-step1: 给定数据集，需要先进行抽取特征：
-                                  exam_X = examDf.loc[:,'xxx']
-                                  exam_y = examDf.loc[:,'yyy']
-step2: 基于已给的数据集，分出来训练集和测试集：  
-                                  from sklearn.model_selection import train_split
-                                  X_train, X_test, y_train, t_test = train_split(exam_X,exam_y,train_size = .8) #分类百分比80%
+Linear Regression/机器学习案例分析/线性回归  
+step1: 给定数据集，需要先进行抽取特征：  
+                                  exam_X = examDf.loc[:,'xxx']  
+                                  exam_y = examDf.loc[:,'yyy']  
+step2: 基于已给的数据集，分出来训练集和测试集：    
+                                  from sklearn.model_selection import train_split  
+                                  X_train, X_test, y_train, t_test = train_split(exam_X,exam_y,train_size = .8) #分类百分比80%  
 step3:建立训练模型：
                                   from sklearn.linear_model import LinearRegression
                                   model = LinearRegression
