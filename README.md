@@ -28,5 +28,6 @@ Edit on Feb/21,2022
 Reviewed the logistic regression. It is important to understand ROC,AUC in problem of certain classes/groups.  
 I attach it in here which is very helpful to understand the concept: https://zh.wikipedia.org/zh-cn/ROC曲线. 
 The main difference between logistic regression and linear regression is that: linear regressin mainly deals with the problem without clear boundary.  
-Logistic regression deals with 0/1 problems, which is useful at the problem of classification.
+Logistic regression deals with 0/1 problems, which is useful at the problem of classification.  
+I found out a nice blog which clearly clarified the difference between two above: https://blog.csdn.net/likewind1993/article/details/84196135. 
 
