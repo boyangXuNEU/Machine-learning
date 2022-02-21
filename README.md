@@ -20,7 +20,7 @@ step6:模型评估：
                                   model.score(X_test , y_test) #注意模型评估是用测试集来做。就好比我们用模拟考试的表现来进行模型建立，参数求解。  
                                                                 但是想要真正的测试模型的好坏，还是需要用真正的考试来进行验证。  
 
-I also used Linear Regression method to predict the Boston housing price tonight:  
-The problem I found is here:https://www.cnblogs.com/wish-together/p/14764148.html. Following the author's step just to learn efficiently.  
-Besides some methods of vision of data by python, there is a little difference from precious problem in Github. There are 13 variables among this problem and we can't plot them in scatter plot. Instead, we could plot them in form of curve，shown in attachment(jpg).Now I have already familarize the linear regression which is good for me to understand deeply in mathematic perspective. Besides, I should spend time to learn data visulation which is very helpful to analysis of the problem.
+I also used Linear Regression method to predict the Boston housing price tonight(2022/2/20):  
+The problem I found is here:https://www.cnblogs.com/wish-together/p/14764148.html.Following the author's step just to learn efficiently.  
+Besides, there is a little difference from precious problem in Github. There are 13 variables among this problem and we can't plot them in scatter plot. Instead, we could plot them in form of the curve，which is shown in attachment(jpg). Now I have already familarize the linear regression which is good for me to understand deeply in mathematic perspective in the future. Besides, I should spend some time to learn data vision which is very helpful to analysis the problem.
 
