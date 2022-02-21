@@ -22,5 +22,11 @@ step6:模型评估：
 
 I also used Linear Regression method to predict the Boston housing price tonight(2022/2/20):  
 The problem I found is here:https://www.cnblogs.com/wish-together/p/14764148.html.Following the author's step just to learn efficiently.  
-Besides, there is a little difference from precious problem in Github. There are 13 variables among this problem and we can't plot them in scatter plot. Instead, we could plot them in form of the curve，which is shown in attachment(jpg). Now I have already familarize the linear regression which is good for me to understand deeply in mathematic perspective in the future. Besides, I should spend some time to learn data vision which is very helpful to analysis the problem.
+Besides, there is a little difference from precious problem in Github. There are 13 variables among this problem and we can't plot them in scatter plot. Instead, we could plot them in form of the curve，which is shown in attachment(jpg). Now I have already familarize the linear regression which is good for me to understand deeply in mathematic perspective in the future. Besides, I should spend some time to learn data vision which is very helpful to analysis the problem.  
+
+Edit on Feb/21,2022
+Reviewed the logistic regression. It is important to understand ROC,AUC in problem of certain classes/groups.  
+I attach it in here which is very helpful to understand the concept: https://zh.wikipedia.org/zh-cn/ROC曲线. 
+The main difference between logistic regression and linear regression is that: linear regressin mainly deals with the problem without clear boundary.  
+Logistic regression deals with 0/1 problems, which is useful at the problem of classification.
 
